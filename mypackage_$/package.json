@@ -1,0 +1,35 @@
+{
+  "name": "dollarjs-util",
+  "version": "1.0.1",
+  "description": "Simple utility for API calls and data manipulation with magic property access",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "http",
+    "api",
+    "axios",
+    "fetch",
+    "utility",
+    "dollar",
+    "request",
+    "rest",
+    "json",
+    "map",
+    "array",
+    "object"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
