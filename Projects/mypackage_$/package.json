@@ -78,12 +78,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adarsh-priydarshi/dollarjs-util.git"
+    "url": "git+https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-.git"
   },
   "bugs": {
-    "url": "https://github.com/adarsh-priydarshi/dollarjs-util/issues"
+    "url": "https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-/issues"
   },
-  "homepage": "https://github.com/adarsh-priydarshi/dollarjs-util#readme",
+  "homepage": "https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-#readme",
   "engines": {
     "node": ">=14.0.0"
   }
