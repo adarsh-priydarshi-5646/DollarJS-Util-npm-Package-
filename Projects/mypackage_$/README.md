@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-/main/Projects/mypackage_%24/logo.svg" alt="dollarjs-util" width="80" />
+  <img src="https://raw.githubusercontent.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-/v1.1.0/Projects/mypackage_%24/logo.svg" alt="dollarjs-util" width="80" />
 </p>
 
 <h1 align="center">dollarjs-util</h1>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/dollarjs-util"><img src="https://img.shields.io/npm/v/dollarjs-util.svg" alt="npm version" /></a>
-  <a href="https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/dollarjs-util.svg" alt="license" /></a>
+  <a href="https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-/blob/v1.1.0/Projects/mypackage_%24/LICENSE"><img src="https://img.shields.io/npm/l/dollarjs-util.svg" alt="license" /></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/dollarjs-util.svg" alt="node" /></a>
 </p>
 
@@ -386,3 +386,5 @@ const safeData = $.omit(users, ['password', 'token']);
 MIT License - Newton School of Technology
 
 Created by [Adarsh Priydarshi](https://github.com/adarsh-priydarshi-5646)
+
+[GitHub Repository](https://github.com/adarsh-priydarshi-5646/DollarJS-Util-npm-Package-)
